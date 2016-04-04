@@ -1,3 +1,7 @@
+##Use With Composer
+to import
+    ``
+    composer require
 wp-bootstrap-navwalker
 ======================
 

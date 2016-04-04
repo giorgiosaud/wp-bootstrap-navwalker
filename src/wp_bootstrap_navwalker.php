@@ -1,5 +1,5 @@
 <?php
-
+namespace jorgelsaud\WordpressTools;
 /**
  * Class Name: wp_bootstrap_navwalker
  * GitHub URI: https://github.com/twittem/wp-bootstrap-navwalker
@@ -9,6 +9,7 @@
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
+use Walker_Nav_Menu;
 
 class wp_bootstrap_navwalker extends Walker_Nav_Menu {
 
